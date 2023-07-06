@@ -1,3 +1,4 @@
+
 # Prework Study Guide Webpage
 
 ## Description
@@ -14,6 +15,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 ## Credits
 
+
 Jacquely Pulliam
 
 [GitHub](https://github.com/JacquieSue)
@@ -21,3 +23,4 @@ Jacquely Pulliam
 ## License
 
 Please refer to the LICENSE in the repo.
+=======
